@@ -8,7 +8,7 @@ public class Operadorers {
 		short s = 0;
 		int i= 0;
 		long l = 0;
-		BigDecimal bd = BigDecimal.o;
+		
 		
 		float f = 0;
 		double d = 0;
@@ -19,7 +19,7 @@ public class Operadorers {
 		boolean b = false;
 		boolean b1 = true;
 		
-		Dade data = new Date();
+		
 		
 
 	}

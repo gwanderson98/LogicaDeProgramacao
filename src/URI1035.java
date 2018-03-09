@@ -9,9 +9,7 @@ public class URI1035 {
 	  int b = sc.nextInt();
 	  int c = sc.nextInt();
 	  int d = sc.nextInt();
-	  if ( > c && d > a && c + d > a + b && c > 0 && d > 0 ) {
-	    
-	  }
+	 
 		  
 	  
 	  sc.close();

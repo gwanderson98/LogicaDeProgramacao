@@ -22,9 +22,9 @@ public class URI1040 {
 		} else {
 			System.out.println("Aluno em exame");
 		double notaExame = sc.nextDouble();
-		System
+		
 		}
-		System.out.printf("Media final: %.2f\n")
+		System.out.printf("Media final: %.2f\n");
 			
 		
 	}
